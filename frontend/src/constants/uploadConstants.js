@@ -1,0 +1,1 @@
+export const FOLDER_NAME = 'FOLDER_NAME'
